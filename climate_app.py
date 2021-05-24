@@ -1,11 +1,12 @@
-###########################################################################################
-#  RUT-SOM-DATA-PT-06-2020-U-C                                               Douglas High #
-#   SQL-Alchemy                                                           August 17, 2020 #
-#      >climate_app                                                                       #
-#   - coded in conjunction with climate_analysis.ipynb.                                   #
-#   - use flask to create home page and various secondary pages returning query results   #
-#     against weather observation data from Hawaii.                                       #
-###########################################################################################
+############################################################################################
+#  RUT-SOM-DATA-PT-06-2020-U-C                                                Douglas High #
+#   SQL-Alchemy                                                            August 17, 2020 #
+#      >climate_app                                                                        #
+#   - coded in conjunction with climate_analysis.ipynb.                                    #
+#   - use flask to create home page and various secondary pages returning query results    #
+#     against weather observation data from Hawaii.                                        #
+#  *- 5/2021 - git repo and local folder name changed to HawaiiVacation, no code changes.  #
+############################################################################################
 
 ##############################################################
 #00       I/O                                                #

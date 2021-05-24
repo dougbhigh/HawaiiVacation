@@ -1,4 +1,4 @@
-# SQLAlchemy-Challenge
+# HawaiiVacation
 Plan vacation in Hawaii based on analysis of precipitation and temperature data from various weather stations from within the past year.
 ## Part 1  Analysis 
 - Use SQLAlchemy to connect to SQLite DB.
@@ -11,5 +11,5 @@ Plan vacation in Hawaii based on analysis of precipitation and temperature data 
 - Generate rudimentary home page with five available routes (station and weather data, including date range specific).
 - Generate route pages with formatted details or data as JSON dictionary.
 
-![alt text](https://github.com/dougbhigh/SQLAlchemy-Challenge/blob/master/Images/precipitation_station_averages.png)
-![alt text](https://github.com/dougbhigh/SQLAlchemy-Challenge/blob/master/Images/Vacationtime_normal_temps.png)
+![alt text](https://github.com/dougbhigh/HawaiiVacation/blob/master/Images/precipitation_station_averages.png)
+![alt text](https://github.com/dougbhigh/HawaiiVacation/blob/master/Images/Vacationtime_normal_temps.png)
